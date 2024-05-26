@@ -10,6 +10,7 @@ make build-image
 make start
 ```
 ## 🏃 How to run a HCBlackSmith
+### x64 architect
 1. Install library
 ```sh
 pip install -r requirements.txt
